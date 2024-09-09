@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1997ad4fa5cb17e46887e6a8158ed519
+guid: c1dc6b7af30c7904b92221580a2cb6da
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: PacStudent
+  - name: Wall_7_T-Junction_Frame_0
     originalName: 
-    pivot: {x: 0.5263158, y: -0.3181818}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 19
-      height: 22
-    spriteID: 6fa223a3043c69d4bb19191eed6cfa18
+      width: 32
+      height: 32
+    spriteID: b3f4ff11589c5c242970594ef138916a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,18 +141,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: PacStudent_Frame_1
+  - name: Wall_7_T-Junction_Frame_1
     originalName: 
-    pivot: {x: 0.5263158, y: -0.3809524}
+    pivot: {x: 8, y: -2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 34
-      width: 19
-      height: 21
-    spriteID: 9184fd282d331114999fa852c9eef678
+      y: 44
+      width: 2
+      height: 1
+    spriteID: 342bd413efdd85748972fded46aef7e6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,19 +160,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 34}
-  - name: PacStudent_Frame_2
+    uvTransform: {x: 4, y: 43}
+  - name: Wall_7_T-Junction_Frame_2
     originalName: 
-    pivot: {x: 0.5263158, y: -0.45000002}
+    pivot: {x: 8, y: -2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 92
-      width: 19
-      height: 20
-    spriteID: 66fd04add5bdab347ac991f6cb42c477
+      x: 14
+      y: 44
+      width: 2
+      height: 1
+    spriteID: 71c5cc5a84bca9949b30cde7f319b9d4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -180,19 +180,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 92}
-  - name: PacStudent_Frame_3
+    uvTransform: {x: 14, y: 43}
+  - name: Wall_7_T-Junction_Frame_3
     originalName: 
-    pivot: {x: 0.5263158, y: -0.45000002}
+    pivot: {x: 8, y: -2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 31
-      y: 4
-      width: 19
-      height: 20
-    spriteID: fc8497caf2d38cf46a02a60d39d2df13
+      x: 24
+      y: 44
+      width: 2
+      height: 1
+    spriteID: 25c4972880fc16d4d8a619aaf74588b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -200,19 +200,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 31, y: 4}
-  - name: PacStudent_Frame_4
+    uvTransform: {x: 24, y: 43}
+  - name: Wall_7_T-Junction_Frame_4
     originalName: 
-    pivot: {x: 0.5263158, y: -0.45000002}
+    pivot: {x: 8, y: -2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 31
-      y: 32
-      width: 19
-      height: 20
-    spriteID: 3b8b230a784a2fd4eaf7e8e3c498021d
+      x: 34
+      y: 44
+      width: 2
+      height: 1
+    spriteID: b26b8b35fc6d4ed45a7bf3e00ba81ade
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -220,84 +220,56 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 31, y: 32}
-  - name: PacStudent_Frame_5
-    originalName: 
-    pivot: {x: 0.5263158, y: -0.3809524}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 63
-      width: 19
-      height: 21
-    spriteID: ecfab93b4d989ce478c6440e2ab4281b
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 63}
+    uvTransform: {x: 34, y: 43}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1830687611
-    name: PacStudent
+    guid: -665185362
+    name: Wall_7_T-Junction
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: PacStudent_Frame_0
+    - name: Wall_7_T-Junction_Frame_0
       frameIndex: 0
       cellRect:
-        x: 6
-        y: 7
-        width: 19
-        height: 22
-      spriteId: 6fa223a3043c69d4bb19191eed6cfa18
-    - name: PacStudent_Frame_1
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      spriteId: b3f4ff11589c5c242970594ef138916a
+    - name: Wall_7_T-Junction_Frame_1
       frameIndex: 1
       cellRect:
-        x: 6
-        y: 8
-        width: 19
-        height: 21
-      spriteId: 9184fd282d331114999fa852c9eef678
-    - name: PacStudent_Frame_2
+        x: 0
+        y: 1
+        width: 2
+        height: 2
+      spriteId: 342bd413efdd85748972fded46aef7e6
+    - name: Wall_7_T-Junction_Frame_2
       frameIndex: 2
       cellRect:
-        x: 6
-        y: 9
-        width: 19
-        height: 20
-      spriteId: 66fd04add5bdab347ac991f6cb42c477
-    - name: PacStudent_Frame_3
+        x: 0
+        y: 1
+        width: 2
+        height: 2
+      spriteId: 71c5cc5a84bca9949b30cde7f319b9d4
+    - name: Wall_7_T-Junction_Frame_3
       frameIndex: 3
       cellRect:
-        x: 6
-        y: 9
-        width: 19
-        height: 20
-      spriteId: fc8497caf2d38cf46a02a60d39d2df13
-    - name: PacStudent_Frame_4
+        x: 0
+        y: 1
+        width: 2
+        height: 2
+      spriteId: 25c4972880fc16d4d8a619aaf74588b7
+    - name: Wall_7_T-Junction_Frame_4
       frameIndex: 4
       cellRect:
-        x: 6
-        y: 9
-        width: 19
-        height: 20
-      spriteId: 3b8b230a784a2fd4eaf7e8e3c498021d
-    - name: PacStudent_Frame_5
-      frameIndex: 5
-      cellRect:
-        x: 6
-        y: 8
-        width: 19
-        height: 21
-      spriteId: ecfab93b4d989ce478c6440e2ab4281b
+        x: 0
+        y: 1
+        width: 2
+        height: 2
+      spriteId: b26b8b35fc6d4ed45a7bf3e00ba81ade
     linkedCells: []
     parentIndex: -1
   platformSettings: []

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1997ad4fa5cb17e46887e6a8158ed519
+guid: 6cc1eafb1f22a3c42b5cdb9e045ee3b1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: PacStudent
+  - name: Ghost_Normal_Frame_0
     originalName: 
-    pivot: {x: 0.5263158, y: -0.3181818}
+    pivot: {x: 0.5294118, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 19
-      height: 22
-    spriteID: 6fa223a3043c69d4bb19191eed6cfa18
+      width: 17
+      height: 30
+    spriteID: 6f5d6219cc800ea49a3674dcb2bb5195
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,18 +141,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: PacStudent_Frame_1
+  - name: Ghost_Normal_Frame_1
     originalName: 
-    pivot: {x: 0.5263158, y: -0.3809524}
+    pivot: {x: 0.5294118, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 34
-      width: 19
-      height: 21
-    spriteID: 9184fd282d331114999fa852c9eef678
+      y: 80
+      width: 17
+      height: 29
+    spriteID: c1250276786e5614fa81c8d6bd618f53
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -160,39 +160,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 34}
-  - name: PacStudent_Frame_2
+    uvTransform: {x: 4, y: 80}
+  - name: Ghost_Normal_Frame_2
     originalName: 
-    pivot: {x: 0.5263158, y: -0.45000002}
+    pivot: {x: 0.47058824, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 92
-      width: 19
-      height: 20
-    spriteID: 66fd04add5bdab347ac991f6cb42c477
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 92}
-  - name: PacStudent_Frame_3
-    originalName: 
-    pivot: {x: 0.5263158, y: -0.45000002}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 31
+      x: 29
       y: 4
-      width: 19
-      height: 20
-    spriteID: fc8497caf2d38cf46a02a60d39d2df13
+      width: 17
+      height: 28
+    spriteID: dcc98fdfdbe94584e809f91704fba090
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -200,19 +180,19 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 31, y: 4}
-  - name: PacStudent_Frame_4
+    uvTransform: {x: 29, y: 4}
+  - name: Ghost_Normal_Frame_3
     originalName: 
-    pivot: {x: 0.5263158, y: -0.45000002}
+    pivot: {x: 0.5294118, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 31
-      y: 32
-      width: 19
-      height: 20
-    spriteID: 3b8b230a784a2fd4eaf7e8e3c498021d
+      x: 29
+      y: 40
+      width: 17
+      height: 27
+    spriteID: ad9bc128b7918a14c94c2746f7d6e369
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -220,19 +200,39 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 31, y: 32}
-  - name: PacStudent_Frame_5
+    uvTransform: {x: 29, y: 40}
+  - name: Ghost_Normal_Frame_4
     originalName: 
-    pivot: {x: 0.5263158, y: -0.3809524}
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 75
+      width: 16
+      height: 28
+    spriteID: 7ab5c7a13b731ea47b03d66d9f795ca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 75}
+  - name: Ghost_Normal_Frame_5
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 63
-      width: 19
-      height: 21
-    spriteID: ecfab93b4d989ce478c6440e2ab4281b
+      y: 42
+      width: 17
+      height: 30
+    spriteID: 0415aa79b99c5ce4fa57785d1c7f5350
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -240,64 +240,64 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 63}
+    uvTransform: {x: 4, y: 42}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1830687611
-    name: PacStudent
+    guid: -607433373
+    name: Ghost_Normal
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: PacStudent_Frame_0
+    - name: Ghost_Normal_Frame_0
       frameIndex: 0
       cellRect:
-        x: 6
-        y: 7
-        width: 19
-        height: 22
-      spriteId: 6fa223a3043c69d4bb19191eed6cfa18
-    - name: PacStudent_Frame_1
+        x: 7
+        y: 0
+        width: 17
+        height: 30
+      spriteId: 6f5d6219cc800ea49a3674dcb2bb5195
+    - name: Ghost_Normal_Frame_1
       frameIndex: 1
       cellRect:
-        x: 6
-        y: 8
-        width: 19
-        height: 21
-      spriteId: 9184fd282d331114999fa852c9eef678
-    - name: PacStudent_Frame_2
+        x: 7
+        y: 0
+        width: 17
+        height: 29
+      spriteId: c1250276786e5614fa81c8d6bd618f53
+    - name: Ghost_Normal_Frame_2
       frameIndex: 2
       cellRect:
-        x: 6
-        y: 9
-        width: 19
-        height: 20
-      spriteId: 66fd04add5bdab347ac991f6cb42c477
-    - name: PacStudent_Frame_3
+        x: 8
+        y: 0
+        width: 17
+        height: 28
+      spriteId: dcc98fdfdbe94584e809f91704fba090
+    - name: Ghost_Normal_Frame_3
       frameIndex: 3
       cellRect:
-        x: 6
-        y: 9
-        width: 19
-        height: 20
-      spriteId: fc8497caf2d38cf46a02a60d39d2df13
-    - name: PacStudent_Frame_4
+        x: 7
+        y: 0
+        width: 17
+        height: 27
+      spriteId: ad9bc128b7918a14c94c2746f7d6e369
+    - name: Ghost_Normal_Frame_4
       frameIndex: 4
       cellRect:
-        x: 6
-        y: 9
-        width: 19
-        height: 20
-      spriteId: 3b8b230a784a2fd4eaf7e8e3c498021d
-    - name: PacStudent_Frame_5
+        x: 8
+        y: 0
+        width: 16
+        height: 28
+      spriteId: 7ab5c7a13b731ea47b03d66d9f795ca8
+    - name: Ghost_Normal_Frame_5
       frameIndex: 5
       cellRect:
-        x: 6
-        y: 8
-        width: 19
-        height: 21
-      spriteId: ecfab93b4d989ce478c6440e2ab4281b
+        x: 7
+        y: 0
+        width: 17
+        height: 30
+      spriteId: 0415aa79b99c5ce4fa57785d1c7f5350
     linkedCells: []
     parentIndex: -1
   platformSettings: []
