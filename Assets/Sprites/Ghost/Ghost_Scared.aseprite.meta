@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Ghost_Scared
+  - name: Ghost_Scared_Frame_0
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5294118, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 22
-      height: 31
-    spriteID: 35b9e6e77ea5ef94b843d45c1e1e6c58
+      width: 17
+      height: 30
+    spriteID: 7e19de08b7415d3419ecd2d30c6d1e02
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,6 +141,106 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: Ghost_Scared_Frame_1
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 80
+      width: 17
+      height: 29
+    spriteID: 5b2c87cebe587e042baf2a90cf9798b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 80}
+  - name: Ghost_Scared_Frame_2
+    originalName: 
+    pivot: {x: 0.47058824, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 4
+      width: 17
+      height: 28
+    spriteID: 76dfe7c577990c646a5be914ce9a8d5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 4}
+  - name: Ghost_Scared_Frame_3
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 40
+      width: 17
+      height: 27
+    spriteID: ba1970140eed5614db90d99d18ca5af6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 40}
+  - name: Ghost_Scared_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 29
+      y: 75
+      width: 16
+      height: 28
+    spriteID: 13f2c300e796be54694d58ea8ff871b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 29, y: 75}
+  - name: Ghost_Scared_Frame_5
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 17
+      height: 30
+    spriteID: ba24ade5c40d960408e5782dd90ebd7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -150,14 +250,54 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Ghost_Scared
+    - name: Ghost_Scared_Frame_0
       frameIndex: 0
       cellRect:
-        x: 5
+        x: 7
         y: 0
-        width: 22
-        height: 31
-      spriteId: 35b9e6e77ea5ef94b843d45c1e1e6c58
+        width: 17
+        height: 30
+      spriteId: 7e19de08b7415d3419ecd2d30c6d1e02
+    - name: Ghost_Scared_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 7
+        y: 0
+        width: 17
+        height: 29
+      spriteId: 5b2c87cebe587e042baf2a90cf9798b4
+    - name: Ghost_Scared_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 8
+        y: 0
+        width: 17
+        height: 28
+      spriteId: 76dfe7c577990c646a5be914ce9a8d5d
+    - name: Ghost_Scared_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 7
+        y: 0
+        width: 17
+        height: 27
+      spriteId: ba1970140eed5614db90d99d18ca5af6
+    - name: Ghost_Scared_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 8
+        y: 0
+        width: 16
+        height: 28
+      spriteId: 13f2c300e796be54694d58ea8ff871b5
+    - name: Ghost_Scared_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 7
+        y: 0
+        width: 17
+        height: 30
+      spriteId: ba24ade5c40d960408e5782dd90ebd7d
     linkedCells: []
     parentIndex: -1
   platformSettings: []
