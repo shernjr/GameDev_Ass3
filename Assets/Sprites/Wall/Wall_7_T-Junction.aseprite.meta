@@ -230,40 +230,45 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Wall_7_T-Junction_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 32
         height: 32
       spriteId: b3f4ff11589c5c242970594ef138916a
-    - name: Wall_7_T-Junction_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 1
         width: 2
         height: 2
       spriteId: 342bd413efdd85748972fded46aef7e6
-    - name: Wall_7_T-Junction_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 1
         width: 2
         height: 2
       spriteId: 71c5cc5a84bca9949b30cde7f319b9d4
-    - name: Wall_7_T-Junction_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 1
         width: 2
         height: 2
       spriteId: 25c4972880fc16d4d8a619aaf74588b7
-    - name: Wall_7_T-Junction_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 1
