@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 40888c468ed80cd4f8f1e1255cb61892
+guid: 3eb73119ea40fd84f9c59e330b0c1fe7
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 32
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638618291615451789
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Wall_2_Outside_Wall
+  - name: WallSheet
     originalName: 
-    pivot: {x: 4, y: 0}
+    pivot: {x: 0.8888889, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 4
-      height: 32
-    spriteID: db1afc1e57321a74395697971186d340
+      width: 36
+      height: 96
+    spriteID: b8f4247582099014393831d0ab5f7938
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,25 +144,25 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1467257900
-    name: Wall_2_Outside_Wall
+    guid: 761152017
+    name: WallSheet
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Wall_2_Outside_Wall
+    - name: WallSheet
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
-        width: 4
-        height: 32
-      spriteId: db1afc1e57321a74395697971186d340
+        width: 36
+        height: 96
+      spriteId: b8f4247582099014393831d0ab5f7938
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048
@@ -174,19 +174,7 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 32, y: 32}
+  canvasSize: {x: 64, y: 96}
