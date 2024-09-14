@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 8fc1960fde27bc246b43a383308d5750
+guid: 78767cdd8ad0a4646aa94927d002b828
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5991855890888785926
-    second: WallSheet_0
-  - first:
-      213: -6716764224878719765
-    second: WallSheet_1
+      213: 8852015295164446798
+    second: TestWallPractice_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -107,7 +104,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -115,10 +112,10 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 60002c1cf29572350800000000000000
-      internalID: 5991855890888785926
+      spriteID: 967e3ab6df62ddb4b9cab6a2cc90d7bc
+      internalID: -973731525
       vertices: []
       indices: 
       edges: []
@@ -128,7 +125,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 32
         width: 32
         height: 32
       alignment: 0
@@ -136,10 +133,10 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bec4d00468249c2a0800000000000000
-      internalID: -6716764224878719765
+      spriteID: f910d0e17b0f3974bb7816d18a45eec8
+      internalID: 1796470155
       vertices: []
       indices: 
       edges: []
@@ -148,7 +145,7 @@ TextureImporter:
       name: WallSheet_2
       rect:
         serializedVersion: 2
-        x: 0
+        x: 64
         y: 32
         width: 32
         height: 32
@@ -159,35 +156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c4ade8d3b7d77f4796ba7c4b0246f2f
-      internalID: -1503860682
+      spriteID: 45c3bc624738d0d41ba1bc5a6cb1abc7
+      internalID: 740039563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
       name: WallSheet_3
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5df4e9e418bc4240b1b9a39c2d3d816
-      internalID: 321934206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WallSheet_4
       rect:
         serializedVersion: 2
         x: 0
@@ -201,8 +177,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5c37aaab7cd1a74ba0e71e2b2c47972
-      internalID: -1174228447
+      spriteID: 8f2c11cde63a2c44d88d92686ea3efde
+      internalID: -1721397199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallSheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cdf0e28d295484ca53e81da8fa7886
+      internalID: 722513798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallSheet_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a47f4e27bf503247b6af2be2ab92866
+      internalID: 1983019090
       vertices: []
       indices: 
       edges: []
@@ -210,7 +228,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a6b58cb80e933154c9928bad375422e9
+    spriteID: d118a986da8c3584898adff738f8343e
     internalID: 0
     vertices: []
     indices: 
@@ -218,11 +236,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WallSheet_0: 5991855890888785926
-      WallSheet_1: -6716764224878719765
-      WallSheet_2: -1503860682
-      WallSheet_3: 321934206
-      WallSheet_4: -1174228447
+      WallSheet_0: -973731525
+      WallSheet_1: 1796470155
+      WallSheet_2: 740039563
+      WallSheet_3: -1721397199
+      WallSheet_4: 722513798
+      WallSheet_5: 1983019090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
