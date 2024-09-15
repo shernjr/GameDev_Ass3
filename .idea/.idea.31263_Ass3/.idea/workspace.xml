@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5658e4ff-fb5f-4a6c-88bc-098e209338c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.31263_Ass3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.31263_Ass3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.31263_Ass3/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.31263_Ass3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/GhostAnimator.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/GhostAnimator.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Dead.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Dead.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Left.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Recovering.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Recovering.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Right.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Scared.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Scared.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Ghost/Ghost_Up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/PacMove.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/PacMove.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Down.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Down.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Left.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Right.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Up.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/PacStudent/Pac_Up.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Pellet.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Pellet/PowerPallet.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Pellet/PowerPallet.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Pellet/Power_Pellet_Flash.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Pellet/Power_Pellet_Flash.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Audio.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Palettes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Palettes/Default.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Palettes/Default.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ghost.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ghost.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PacStudent.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PacStudent.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PowerPallet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PowerPallet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Dead.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Dead.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Normal.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Normal.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Normal_Down.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Normal_Down.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Normal_Up.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Normal_Up.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Recovering.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Recovering.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Scared.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ghost/Ghost_Scared.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PacStudent.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PacStudent/PacStudent.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PacStudent/PacStudent.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PacStudent/PacStudent_Dead.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PacStudent/PacStudent_Dead.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/Bonus_Score_Cherry.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/Bonus_Score_Cherry.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/Normal_Pellet.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/Normal_Pellet.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/PacStudent_Life_Indicator.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/PacStudent_Life_Indicator.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/Power_Pellet.aseprite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Pellet/Power_Pellet.aseprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Wall.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Wall/WallSheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Wall/WallSheet.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/NewCustomRuleTile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/NewCustomRuleTile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Platform.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/Platform.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tiles/WallSheet_5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.tilemap.extras@4.0.2/Runtime/Tiles/RuleTile/RuleTile.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2m2oDcyJwKjcSQA2pf34vuH4y70" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging dev",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\chngw\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\chngw\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\chngw\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.2.10f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\chngw\Documents\31263_Ass3 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\chngw\Documents\31263_Ass3" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.2.10f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\chngw\Documents\31263_Ass3 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\chngw\Documents\31263_Ass3" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5658e4ff-fb5f-4a6c-88bc-098e209338c7" name="Changes" comment="" />
+      <created>1726283914788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726283914788</updated>
+      <workItem from="1726283918430" duration="19000" />
+      <workItem from="1726442543353" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
